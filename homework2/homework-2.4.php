@@ -29,27 +29,9 @@
             'preview' => 'preview4.jpg',
         ],
     ];
-//foreach ($data as $post) {
-//    //метод 1
-//    //var_dump($post['title']);
-//
-//    // echo "
-//    // <section>
-//    //     <h2>{$post['title']}</h2>
-//    //     <p class=\"date\">{$post['date']}</p>
-//    // </section>
-//    // ";
-//    //метод 2
-//    echo
-//    '<section>',
-//    '<h2>'.$post['title'].'</h2>',
-//    '<p class="date">'.$post['date'].'</p>',
-//    '</section>'
-//    ;
-//
-//}
+
 ?>
-<!--метод 3-->
+
 <!DOCTYPE html>
     <html>
         <head>
