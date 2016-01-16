@@ -1,0 +1,13 @@
+.post {
+	width: 80%;
+	margin: 0 auto;
+}
+
+section {
+	width: 350px;
+	height: 400px;
+	float: left;
+	margin: 10px;
+	text-align: center;
+	background-color: tomato;
+}
